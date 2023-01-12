@@ -1,0 +1,39 @@
+[
+    {
+    "precio": 1000,
+    "id": 1,
+    "nombre": "Mani",
+    "imagen": "/ASSET/IMG/mani.jpg",
+    "descripcion":"Mani seleccionado natural tostado con y sin sal. Son ricos en grasas mono insaturadas, fibra, vitaminas, antioxidantes y arginina"
+    },
+    {
+    "precio": 1000,
+    "id": 2,
+    "nombre": "Mani Japones",
+    "imagen": "/ASSET/IMG/japomani.jpeg"
+    },
+    {
+    "precio": 1000,
+    "id": 3,
+    "nombre": "Mani Confitado",
+    "imagen": "/ASSET/IMG/confitado.jpeg"
+    },
+    {
+    "precio": 1000,
+    "id": 3.1,
+    "nombre": "Almendras",
+    "imagen": "/ASSET/IMG/almendras.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 3.2,
+    "nombre": "Pepas De Calabaza",
+    "imagen": "/ASSET/IMG/pz.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 6,
+    "nombre": "Pistachos",
+    "imagen": "/ASSET/IMG/pistacho.jpg"
+    }
+]
